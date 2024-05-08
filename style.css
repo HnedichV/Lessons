@@ -1,0 +1,26 @@
+h1
+		{
+			font-size: 24px;
+			font-family: Arial, Verdana, Helvetica, sans-serif;
+			color: #ff9933; 
+			text-align: center;
+			background-color: #0069cc;
+		}
+h2
+		{
+			font-size: 20px;
+			font-family: Verdana, Arial, Helvetica, sans-serif;
+			color: #333366; 
+			text-align: justify;
+			background-image:  url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwsEkix_USeWJU75t2cne0WUWPaMNV-C4ipw&s);
+			background-size: 100%;
+		}
+h3
+		{
+			font-size: 20px;
+			font-family: Bookman Old Style, Verdana, Arial, Helvetica, sans-serif;
+			color: #ffff80; 
+			text-align: center;
+			background-image:  url(https://futurenow.com.ua/wp-content/webp-express/webp-images/uploads/2023/05/chomu-nebo-blakytne-rozkryvayemo-tayemnytsyu-scaled-240x172.jpeg.webp);
+			background-size: 50%;
+		}
